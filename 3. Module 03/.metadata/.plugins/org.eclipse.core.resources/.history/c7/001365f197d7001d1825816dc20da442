@@ -1,0 +1,6 @@
+module ioc{
+	requires spring.beans;
+	requires spring.core;
+	requires java.sql;
+	exports com.ust.ioc;
+}

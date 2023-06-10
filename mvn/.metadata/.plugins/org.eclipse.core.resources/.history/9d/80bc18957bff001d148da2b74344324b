@@ -1,0 +1,13 @@
+package com.ust.maven;
+
+public class HelloWorld {
+	
+	public String Call() {
+		return "Hello Lambda";
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

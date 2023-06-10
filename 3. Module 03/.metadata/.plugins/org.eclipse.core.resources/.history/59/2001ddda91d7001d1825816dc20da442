@@ -1,0 +1,17 @@
+package com.ust.ioc2;
+
+public class Line {
+	
+	private int p1;
+	private int p2;
+
+	
+	public int getP1() {
+	return p1;
+	}
+	
+	public void DrawLine() {
+		System.out.println("from"+p1.getX()+","+p1.getY()+"......to......"+p2.getX()+","+p2.getY());
+	}
+
+}

@@ -1,0 +1,150 @@
+2023-05-29 22:11:57,348 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-29 22:15:46,602 [Worker-5: Creating project "jenkins_project"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust:jenkins_project:0.0.1-SNAPSHOT @ D:\mvn\jenkins_project\pom.xml.
+2023-05-29 22:15:48,577 [Worker-5: Creating project "jenkins_project"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins_project/src/main/java
+2023-05-29 22:15:48,579 [Worker-5: Creating project "jenkins_project"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins_project/src/main/resources
+2023-05-29 22:15:48,582 [Worker-5: Creating project "jenkins_project"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins_project/src/test/java
+2023-05-29 22:15:48,582 [Worker-5: Creating project "jenkins_project"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins_project/src/test/resources
+2023-05-29 22:15:49,766 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-29 22:15:49,783 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-29 22:15:49,789 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-29 22:15:49,790 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:44:05,060 [Worker-17: Creating project "com.ust.maven"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.maven:com.ust.maven:0.0.1-SNAPSHOT @ D:\mvn\com.ust.maven\pom.xml.
+2023-05-31 11:44:05,154 [Worker-17: Creating project "com.ust.maven"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.ust.maven/src/main/java
+2023-05-31 11:44:05,154 [Worker-17: Creating project "com.ust.maven"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.ust.maven/src/main/resources
+2023-05-31 11:44:05,155 [Worker-17: Creating project "com.ust.maven"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.ust.maven/src/test/java
+2023-05-31 11:44:05,156 [Worker-17: Creating project "com.ust.maven"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.ust.maven/src/test/resources
+2023-05-31 11:44:05,504 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:44:05,506 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:44:05,508 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:44:05,509 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:45:14,228 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:45:16,228 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:45:16,231 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:45:16,232 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:45:54,474 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:45:54,476 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:45:54,478 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:45:54,479 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:45:55,494 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:45:55,496 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:45:55,499 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:45:55,500 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:45:55,507 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:45:55,509 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:45:55,512 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:45:55,514 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:47:42,692 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:47:42,694 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:47:42,696 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:47:42,697 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:48:07,041 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:48:07,042 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:48:07,044 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:48:07,045 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:52:56,761 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:52:56,763 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 11:52:56,767 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 11:52:56,768 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 12:06:48,902 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.maven:com.ust.maven:0.0.1-SNAPSHOT @ D:\mvn\com.ust.maven\pom.xml.
+2023-05-31 12:06:48,926 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for software.amazon.awssdk:lambda:jar:2.x.x is missing, no dependency information available
+2023-05-31 12:06:49,039 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 12:06:49,040 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 12:06:49,043 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 12:06:49,044 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 12:06:50,609 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/lambda/2.x.x/lambda-2.x.x-sources.jar
+2023-05-31 12:06:50,632 [Worker-23: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for software.amazon.awssdk:lambda:2.x.x
+org.eclipse.core.runtime.CoreException: Could not resolve artifact software.amazon.awssdk:lambda:jar:sources:2.x.x
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-05-31 12:07:32,562 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.maven:com.ust.maven:0.0.1-SNAPSHOT @ D:\mvn\com.ust.maven\pom.xml.
+2023-05-31 12:07:32,594 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 12:07:32,596 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 12:07:32,599 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 12:07:32,599 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 12:07:33,763 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 12:07:33,765 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 12:07:33,768 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 12:07:33,769 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 12:09:01,888 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [267])
+2023-05-31 12:09:01,908 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-05-31 12:09:01,909 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2023-05-31 12:09:01,909 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2023-05-31 12:09:01,909 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2023-05-31 12:09:01,909 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2023-05-31 12:09:01,909 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2023-05-31 12:09:01,910 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2023-05-31 12:09:01,910 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2023-05-31 12:09:01,910 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2023-05-31 12:09:01,910 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2023-05-31 12:09:01,910 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2023-05-31 12:09:01,911 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2023-05-31 12:09:01,911 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2023-05-31 12:09:01,911 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2023-05-31 12:09:01,911 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2023-05-31 12:09:01,911 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2023-05-31 12:09:01,912 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2023-05-31 12:09:01,912 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-05-31 12:09:01,912 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2023-05-31 12:09:01,912 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2023-05-31 12:09:01,912 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2023-05-31 12:09:01,912 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-05-31 12:09:01,913 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2023-05-31 12:09:01,913 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2023-05-31 12:09:01,913 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2023-05-31 12:09:01,913 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2023-05-31 12:09:01,913 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2023-05-31 12:09:01,913 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2023-05-31 12:09:01,914 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-05-31 12:09:01,914 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-05-31 12:09:01,914 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2023-05-31 12:09:01,914 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2023-05-31 12:09:01,914 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2023-05-31 12:09:01,914 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2023-05-31 12:09:01,915 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2023-05-31 12:09:01,915 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2023-05-31 12:09:01,915 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2023-05-31 12:09:01,915 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2023-05-31 12:09:01,915 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2023-05-31 12:09:01,918 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2023-05-31 12:09:01,922 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2023-05-31 12:09:01,922 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [431])
+2023-05-31 12:09:02,150 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-05-31 12:09:02,150 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2023-05-31 12:09:02,323 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-05-31 12:09:02,323 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2023-05-31 12:09:02,539 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2023-05-31 12:09:02,543 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\mvn\com.ust.maven":
+2023-05-31 12:09:02,553 [Worker-25: Launching Executing install in D__mvn_com.ust.maven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-31 12:09:08,559 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 12:09:08,560 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 12:09:08,563 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 12:09:08,564 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 12:09:37,970 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-05-31 12:10:55,868 [Worker-25: Launching com.ust.maven] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\mvn\com.ust.maven":
+2023-05-31 12:10:55,868 [Worker-25: Launching com.ust.maven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always package
+2023-05-31 12:28:33,651 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 12:28:33,656 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 12:28:33,659 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 12:28:33,660 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 12:28:52,642 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2023-05-31 12:28:52,712 [Worker-33: Launching com.ust.maven] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\mvn\com.ust.maven":
+2023-05-31 12:28:52,714 [Worker-33: Launching com.ust.maven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always package
+2023-05-31 12:29:04,522 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 12:29:04,523 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 12:29:04,525 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 12:29:04,526 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

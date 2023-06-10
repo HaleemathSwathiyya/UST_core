@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+D:\ustcore\3. Module 03\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1710920604.index

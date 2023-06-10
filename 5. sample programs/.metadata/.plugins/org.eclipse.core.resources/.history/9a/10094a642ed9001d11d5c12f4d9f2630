@@ -1,0 +1,24 @@
+package array;
+
+public class median {
+	
+	public static void main(String[] args) {
+		
+		int a=0;
+		int b=0;
+		int arr[] = {10,20,30,40,50,60,70,80,90};
+		if(arr.length%2!=0) {
+			int median = arr.length/2;
+			System.out.println("The median is:" + arr[median]);
+		}
+		else {
+			a = arr.length/2;
+			b = (arr.length/2)+1;
+			double median = (a+b)/2;
+			System.out.println("The median" + arr[median]);
+		}
+		
+	}
+
+}
+

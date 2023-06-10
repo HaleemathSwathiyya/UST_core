@@ -1,0 +1,26 @@
+package com.ust.debugging;
+
+public class TestCode2 {
+	
+    int a;
+	int b;
+	int x;
+	int a1[] = {2,5,7,8,5};
+	int b1[] = {23,43,27,32,12};
+	int x1[] = {18,19,20,21,22};
+	
+	
+	//ax^2 + bx^2 + 2ab;
+	
+	void calc() {
+		for(int i=0;i<5;i++) {
+			
+		}
+	}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
